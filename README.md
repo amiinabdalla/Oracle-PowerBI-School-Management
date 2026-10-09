@@ -21,7 +21,7 @@ The system is built on a structured relational schema consisting of `Classes`, `
 
 The dashboard provides key performance indicators (KPIs) and operational insights for school administrators.
 
-[📄 Download Power BI Dashboard PDF](./Power%20Dashboard.pdf)
+![Power BI Dashboard](./dashboard.png)
 
 ### Features & Insights:
 - **Total Students KPI Card**: Dynamic count tracking total enrollment (41 Students).
