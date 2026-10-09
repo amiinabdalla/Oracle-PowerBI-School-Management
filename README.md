@@ -8,7 +8,7 @@ An end-to-end Enterprise Data Analytics project featuring a relational database 
 
 The system is built on a structured relational schema consisting of `Classes`, `Students`, `Courses`, and `Grades` tables linked via Primary and Foreign Keys.
 
-![Database ERD Diagram](./erd_diagram.png)
+![Database ERD Diagram](./DBdiogram.io%20School%20Managements.png)
 
 ### Key Database Entities & Relationships:
 - **Classes ➔ Students**: One-to-Many (`1:N`)
